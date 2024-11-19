@@ -2,7 +2,7 @@
 ### HCP Processing Code
 #### Author: Siddharth Srivastava
 
-This code downlodas structural, functional and dMRI files from 100 unrelated subjects in the Human Connectome Project (HCP). 
+This code downloads structural, functional and dMRI files from 100 unrelated subjects in the Human Connectome Project (HCP). 
 
 To use this repository, you will have to acquire S3 credentials from the AWS website and place them in `creds.py`. 
 
